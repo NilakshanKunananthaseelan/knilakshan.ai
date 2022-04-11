@@ -21,6 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+[Weight Decay](https://github.com/NilakshanKunananthaseelan/knilakshan.ai/blob/gh-pages/docs/weight_decay.md)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
