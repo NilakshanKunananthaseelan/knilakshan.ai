@@ -34,7 +34,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NilakshanKunananthaseelan/knilakshan.ai/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### My blog
-[Weight Decay](https://github.com/NilakshanKunananthaseelan/knilakshan.ai/blob/gh-pages/docs/weight_decay.md)
+[Weight Decay](weight_decay.md)
 
 ### Support or Contact
 
